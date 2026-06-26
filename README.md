@@ -1,106 +1,42 @@
+# Olá! 👋
 
-<div align="center">
+Me chamo **Cauã**.
 
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/b1cbd9c8-f746-41de-a11f-c3e5951c1a1c"/>
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente faço **pós-graduação em Engenharia de Software**.
 
-</div>
+Trabalho na área de Tecnologia da Informação e estou em transição para o desenvolvimento de software, com foco na construção de aplicações modernas, escaláveis e de qualidade.
 
+Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios pessoais, experimentos e aplicações que refletem minha evolução como desenvolvedor.
 
+---
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Caua-Sampaio.Caua-Sampaio&"  />
-</div>
+## 🚀 Stack
 
-###
+- React
+- JavaScript | TypeScript
+- Python | Django
+- HTML | CSS | Tailwind CSS
+- SQL
+- Git & GitHub
+- Linux
 
-<h1 align="center">  
+---
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=750&center=true&vCenter=true&width=800&height=100&lines=Hello+everyone%2C+my+name+is+Cau%C3%A3!;and+I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
+## 🎯 Interesses
 
-</h1>
+- Engenharia de Software
+- Desenvolvimento Full Stack
+- Arquitetura de Software
+- Inteligência Artificial
+- Cloud Computing
+- DevOps
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-<p align="Justified">
-  
-  Developer passionate about technology and creative solutions. Always looking to learn and build something new! 🚀<br>
-I turn ideas into code and love sharing knowledge with the community. When I'm not coding, I enjoy exploring trails, playing video games, and diving into a good fiction book.<br>
-Let's build something amazing together! 🌟
+## 📌 Além do código
 
-</p>
-
-<br>
-
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/caua-duarte-sampaio/">   
-  
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  
-  <a/>
-  
-  <a href="https://www.linkedin.com/in/caua-duarte-sampaio/">
-  
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> 
-  
-  <a/>
-  
-  <a href="https://www.linkedin.com/in/caua-duarte-sampaio/">   
-  
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /> 
-  
-  <a/>
-  
-  
-  <a href="https://www.linkedin.com/in/caua-duarte-sampaio/"> 
-  
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /> 
-  
-  <a/>
-  
-</div>
-
-<br>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-<div align="Left">
-   <img src="https://streak-stats.demolab.com?user=Caua-Sampaio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caua-Sampaio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
- </div>
-
-<br>
-
-###
-
-
-<h3 align="left">🛠 Language and tools</h3>
-
-<div align="Left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-
-
-
-
-
+- 💡 Gosto de transformar ideias em soluções.
+- 📚 Acredito em aprendizado contínuo.
+- 🤝 Valorizo código limpo, colaboração e boas práticas.
+- 🎵 Música e café fazem parte do meu processo criativo.
+- ✝️ Cristão.
