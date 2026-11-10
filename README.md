@@ -12,4 +12,4 @@ Engenharia de Software Full Stack Arquitetura de Software Inteligência Artifici
 🎵 Música e café fazem parte do meu processo criativo.
 ✝️ Cristão.
 📊 Estatísticas
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Caua-Sampaio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-Sampaio&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" /> </p>
+
