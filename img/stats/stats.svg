@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" role="img" aria-label="Estatísticas de Cauã Duarte Sampaio">
+  <style>
+    .titulo { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #FFFFFF; }
+    .texto  { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #9F9F9F; }
+    .valor  { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #FFFFFF; }
+    .lang   { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #9F9F9F; }
+  </style>
+  <rect width="400" height="195" rx="4.5" fill="#151515" />
+  <text x="25" y="35" class="titulo">Estatísticas de Cauã Duarte Sampaio</text>
+  <circle cx="31" cy="65" r="4" fill="#FB8C00" />
+  <text x="45" y="70" class="texto">Estrelas recebidas:</text>
+  <text x="230" y="70" class="valor">0</text>
+  <circle cx="31" cy="90" r="4" fill="#FB8C00" />
+  <text x="45" y="95" class="texto">Commits (último ano):</text>
+  <text x="230" y="95" class="valor">82</text>
+  <circle cx="31" cy="115" r="4" fill="#FB8C00" />
+  <text x="45" y="120" class="texto">Pull requests:</text>
+  <text x="230" y="120" class="valor">0</text>
+  <circle cx="31" cy="140" r="4" fill="#FB8C00" />
+  <text x="45" y="145" class="texto">Issues:</text>
+  <text x="230" y="145" class="valor">0</text>
+  <circle cx="31" cy="165" r="4" fill="#FB8C00" />
+  <text x="45" y="170" class="texto">Contribuiu em (repos):</text>
+  <text x="230" y="170" class="valor">0</text>
+</svg>
