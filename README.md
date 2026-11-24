@@ -100,16 +100,8 @@
 
 <div align="center">
   <h3>📊 Estatísticas</h3>
-  <img
-    height="170"
-    src="https://caua-stats.vercel.app/api?username=Caua-Sampaio&show_icons=true&theme=dark&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="170"
-    src="https://caua-stats.vercel.app/api/top-langs/?username=Caua-Sampaio&layout=compact&theme=dark&hide_border=true"
-    alt="Linguagens mais usadas"
-  />
+  <img src="./img/stats/stats.svg" alt="Estatísticas do GitHub" height="170" />
+  <img src="./img/stats/langs.svg" alt="Linguagens mais usadas" height="170" />
   <br />
   <img
     src="https://streak-stats.demolab.com/?user=Caua-Sampaio&theme=dark&hide_border=true"
