@@ -23,6 +23,10 @@ jobs:
       - name: Gerar os cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }} # opcional: inclui repositórios privados
+          PESO_TAMANHO: "0.5"
+          PESO_QUANTIDADE: "0.5"
+          IGNORAR_LINGUAGENS: ""
           GH_USER: ${{ github.repository_owner }}
         run: python scripts/gerar_stats.py
 
