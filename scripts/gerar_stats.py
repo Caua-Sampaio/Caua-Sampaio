@@ -12,7 +12,15 @@ from html import escape
 from pathlib import Path
 
 USUARIO = os.environ.get("GH_USER", "Caua-Sampaio")
-TOKEN = os.environ["GITHUB_TOKEN"]
+TOKEN = os.environ.get("STATS_TOKEN") or os.environ["GITHUB_TOKEN"]
+
+# Peso do tamanho do código (bytes) e da quantidade de repositórios em que a linguagem aparece.
+# 1 e 0 = só tamanho (um repositório grande domina). 0.5 e 0.5 = equilibrado.
+PESO_TAMANHO = float(os.environ.get("PESO_TAMANHO", "0.5"))
+PESO_QUANTIDADE = float(os.environ.get("PESO_QUANTIDADE", "0.5"))
+
+# Linguagens que não devem aparecer no card (ex.: "Jupyter Notebook", "C++")
+IGNORAR = {l.strip() for l in os.environ.get("IGNORAR_LINGUAGENS", "").split(",") if l.strip()}
 SAIDA = Path(__file__).resolve().parent.parent / "img" / "stats"
 
 # Tema escuro (mesmas cores do card de sequência)
@@ -76,8 +84,14 @@ def coletar():
     for repo in repositorios:
         for aresta in repo["languages"]["edges"]:
             nome = aresta["node"]["name"]
-            atual = linguagens.setdefault(nome, {"tamanho": 0, "cor": aresta["node"]["color"] or "#858585"})
-            atual["tamanho"] += aresta["size"]
+            if nome in IGNORAR:
+                continue
+            atual = linguagens.setdefault(nome, {"bytes": 0, "repos": 0, "cor": aresta["node"]["color"] or "#858585"})
+            atual["bytes"] += aresta["size"]
+            atual["repos"] += 1
+
+    for info in linguagens.values():
+        info["tamanho"] = (info["bytes"] ** PESO_TAMANHO) * (info["repos"] ** PESO_QUANTIDADE)
 
     contribuicoes = usuario["contributionsCollection"]
     return {
