@@ -12,7 +12,7 @@
   <text x="230" y="70" class="valor">0</text>
   <circle cx="31" cy="90" r="4" fill="#FB8C00" />
   <text x="45" y="95" class="texto">Commits (último ano):</text>
-  <text x="230" y="95" class="valor">84</text>
+  <text x="230" y="95" class="valor">86</text>
   <circle cx="31" cy="115" r="4" fill="#FB8C00" />
   <text x="45" y="120" class="texto">Pull requests:</text>
   <text x="230" y="120" class="valor">0</text>
